@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm trying to learn as much as possible about AI and I am especially interested in Mechanistic Interpretability.
 <!--
 **DanielGordon7/DanielGordon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
